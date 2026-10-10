@@ -18,7 +18,7 @@ st.set_page_config(
 
 BASE_DIR = Path(__file__).parent
 DB_PATH = BASE_DIR / "sales.db"
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-3.8-flash"
 
 st.title("📊 AskMyData")
 st.subheader("Ask Questions. Get SQL. Discover Insights.")
