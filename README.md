@@ -33,8 +33,8 @@ The goal of this project is to make data analysis easier by allowing users to as
 4. Results appear in a table with visualizations where appropriate.
 
 ## 🚧 Project Status
+AskMyData is a functional Text-to-SQL application built with Streamlit and Gemini AI. It allows users to ask questions about their data in natural language, generate SQL queries, and explore results through an interactive dashboard.**
 
-Currently in development. Features will be implemented step by step.
 
 ## 👩‍💻 Author
 jerry😊
